@@ -1,3 +1,5 @@
 site.title: title
 site.description: description
+title: title_
+description: description_
 theme: jekyll-theme-minimal
