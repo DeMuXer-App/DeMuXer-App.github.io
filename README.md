@@ -1,5 +1,0 @@
----
-title: DeMuXer
----
-# Title
-Contents
